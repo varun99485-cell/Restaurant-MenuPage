@@ -41,29 +41,30 @@ restaurant-menu/
 ## 7. Screenshots of the Project
 
 ### Header Section
-buttons.png
+![Header](header.png)
 
 ### Category Buttons
-![Buttons](images/buttons.png)
+![Buttons](buttons.png)
 
 ### Menu Items
-![Menu](images/menu.png)
+![Menu](menu.png)
 
 ### Footer Section
-![Footer](images/footer.png)
+![Footer](footer.png)
 
 ### Mobile Responsive View
-![Mobile](images/mobile.png)
+![Mobile](mobile.png)
 
 
 
 
 ## 8. Live Project Link (If Deployed)
-This project is not deployed and is submitted as a local frontend project.
+https://github.com/varun99485-cell/Restaurant-MenuPage.git
 
 
 ## 10. Conclusion
 This project helped me understand the fundamentals of frontend web development, including page structure, styling, responsiveness, and basic JavaScript functionality. It improved my confidence in building interactive and visually appealing web applications using HTML, CSS, and JavaScript.
+
 
 
 
