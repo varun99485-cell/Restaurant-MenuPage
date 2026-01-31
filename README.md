@@ -38,12 +38,22 @@ restaurant-menu/
 - Clean and user-friendly interface
 
 ## 7. Screenshots of the Project
-The project includes the following screenshots:
-- Header section
-- Category filter buttons
-- Menu item cards
-- Footer section
-- Mobile responsive view
+## 7. Screenshots of the Project
+
+### Header Section
+![Header](images/header.png)
+
+### Category Buttons
+![Buttons](images/buttons.png)
+
+### Menu Items
+![Menu](images/menu.png)
+
+### Footer Section
+![Footer](images/footer.png)
+
+### Mobile Responsive View
+![Mobile](images/mobile.png)
 
 
 
@@ -54,3 +64,7 @@ This project is not deployed and is submitted as a local frontend project.
 
 ## 10. Conclusion
 This project helped me understand the fundamentals of frontend web development, including page structure, styling, responsiveness, and basic JavaScript functionality. It improved my confidence in building interactive and visually appealing web applications using HTML, CSS, and JavaScript.
+
+
+
+
