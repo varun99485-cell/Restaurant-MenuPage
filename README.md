@@ -41,7 +41,7 @@ restaurant-menu/
 ## 7. Screenshots of the Project
 
 ### Header Section
-![Header](images/header.png)
+buttons.png
 
 ### Category Buttons
 ![Buttons](images/buttons.png)
@@ -64,6 +64,7 @@ This project is not deployed and is submitted as a local frontend project.
 
 ## 10. Conclusion
 This project helped me understand the fundamentals of frontend web development, including page structure, styling, responsiveness, and basic JavaScript functionality. It improved my confidence in building interactive and visually appealing web applications using HTML, CSS, and JavaScript.
+
 
 
 
